@@ -1,5 +1,5 @@
 ---
-# defaults file for joe-speedboat.nginx-rp
+# defaults file for joe_speedboat.nginx-rp
 
 # default is to do ssl offload with entire namespace
 nginx_ssl_rp_path: /
