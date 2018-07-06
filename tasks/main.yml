@@ -1,5 +1,5 @@
 ---
-# tasks file for joe_speedboat.nginx-rp
+# tasks file for joe-speedboat.nginx-rp
 - name: install nginx packages
   yum:
     name: '{{ item }}'

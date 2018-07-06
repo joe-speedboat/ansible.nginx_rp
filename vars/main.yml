@@ -1,5 +1,5 @@
 ---
-# vars file for joe_speedboat.nginx-rp
+# vars file for joe-speedboat.nginx-rp
 
 nginx_packages_EL:
   - nginx
