@@ -1,6 +1,6 @@
 galaxy_info:
   author: joe-speedboat
-  name: nginx-rp
+  role_name: nginx-rp
   description: there are penguins in heaven
   company: Chasperli Theater & co
 
